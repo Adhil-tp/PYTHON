@@ -1,0 +1,27 @@
+.h1{
+    text-align: center;
+}
+
+img{
+    
+    width: 100%;
+}
+
+ 
+.session2 .c1, .session2 .c2{
+
+background-color: #f8f9fb;
+}
+.session2 .c1{
+    margin-right: 10px;
+}
+
+
+.r1{
+    padding-top: 10px;
+    background-color: #eaebec;
+}
+
+.sp{
+    font-weight: bold;
+}
