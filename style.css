@@ -1,5 +1,6 @@
-.h1{
+.session1 .h1{
     text-align: center;
+    padding: 20px;
 }
 
 img{
@@ -16,6 +17,10 @@ background-color: #f8f9fb;
     margin-right: 10px;
 }
 
+.session2 .r2{
+    padding-bottom: 100px;
+}
+
 
 .r1{
     padding-top: 10px;
@@ -24,4 +29,50 @@ background-color: #f8f9fb;
 
 .sp{
     font-weight: bold;
+}
+
+.session2 .b1{
+    background-color: #ffb606;
+    padding-top: 10px;
+}
+.session3{ background: url('../images/search_background.jpg.webp') #ffb606 no-repeat top right;}
+
+
+.session3 .r1{
+   
+    background-color: #ffb606;
+    padding: 150px 100px;
+}
+
+.session3 .c1{
+    color: white;
+}
+
+
+.session3 .sph1{
+    color: black;
+}
+
+.session3 .p1{
+    font-size: small;
+    color: white;
+    padding: 20px 70px;
+}
+
+.session3 .btn{
+    background-color: black;
+    color: white;
+}
+
+.session3 .r2{
+    background-color: rgba(210, 206, 206, 0.521);
+    padding: 150px 100px;
+}
+
+.session3 .txt{
+    padding: 20px 0px;
+}
+
+.session3 .txtf{
+    width: 400px;
 }
